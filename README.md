@@ -97,3 +97,14 @@ Market data is retrieved using the `yfinance` library in Python. This data is th
 
 ---
 *Built for Traders, by Developers.*
+
+
+
+
+
+
+
+
+
+## 🌐 Live Project
+https://salimashaik.github.io/Stock_Market/
